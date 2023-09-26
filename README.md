@@ -5,7 +5,7 @@
 - 📫 Check out @Hacker1254 hes a true g
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/974195445490384896/1021298435606990848/ahh.gif" align="center" style="width: 100%" />
+<img src="https://media.discordapp.net/attachments/974195445490384896/1021298435606990848/ahh.gif" align="center" style="width: 150%" />
 </div>  
 
 <!---
