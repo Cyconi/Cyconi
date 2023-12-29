@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cyconi
-- 👀 I’m interested in Coding
+- 👀 I’m make game mods
 - 🌱 I’m below average in C#, C, C++, Java, HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on developing a game
 - 📫 Check out @Hacker1254 hes a true g
