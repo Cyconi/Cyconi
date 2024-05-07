@@ -3,7 +3,7 @@
 - @Hacker1254
 
 <div align="center">
-<img src="https://media1.tenor.com/m/nEwpZH7XRMsAAAAd/discord-stream.gif" align="center" style="width: 125%" />
+<img src="https://media1.tenor.com/m/nEwpZH7XRMsAAAAd/discord-stream.gif" align="center" />
 </div>  
 
 <!---
