@@ -7,11 +7,8 @@
 </div>
 
 <div align="center">
-<img src="![racist](https://github.com/Cyconi/Cyconi/assets/94489327/5b4dc27e-0b95-4b89-893f-c05c8611be35)
-" align="center" style="width: 50%" />
+<img src="https://cdn.discordapp.com/attachments/1233320199847940166/1237453854459695166/racist.png?ex=663bb435&is=663a62b5&hm=e8da31ec49401c901f47e2d219e94aa64cdb8646c0c355e88d49521c0a9ff58c&" align="center" style="width: 50%" />
 </div> 
-
-![race](https://github.com/Cyconi/Cyconi/assets/94489327/945cfb15-5677-45e3-8526-c78b401f0503)
 
 
 
