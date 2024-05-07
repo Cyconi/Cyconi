@@ -3,7 +3,7 @@
 - @Hacker1254
 
 <div align="center">
-<img src="https://tenor.com/view/discord-stream-black-chungus-drain-gang-gif-19633065" align="center" style="width: 150%" />
+<img src="https://media1.tenor.com/m/nEwpZH7XRMsAAAAd/discord-stream.gif" align="center" style="width: 150%" />
 </div>  
 
 <!---
